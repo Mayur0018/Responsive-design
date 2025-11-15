@@ -1,21 +1,12 @@
-.container {
-  width: 100%;
-  margin: auto;
-  width: 900px;
+.container{
+    width: 100%;
+    margin: auto;
 }
-.input-details {
-  display: flex;
-  gap: 50px;
+.input-details{
+    display: flex;
 }
-.field {
-  display: flex;
-  flex-direction: column;
-}
-.input-details input {
-  padding: 12px 20px;
-  text-align: center;
-}
-.textarea-box {
-  width: 100%;
-  height: 80%;
+.field{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
 }
