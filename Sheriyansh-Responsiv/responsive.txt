@@ -1,0 +1,4 @@
+px fixed 
+% depending on parent
+vw and vh depends ons whole screen
+em parent ke accoding size lega duble rem hai vo root ke accoding size lega...

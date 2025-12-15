@@ -1,0 +1,14 @@
+.banners {
+  max-width: 1280px;
+  margin: auto;
+  flex-wrap: wrap;
+  display: flex;
+}
+.items {
+    flex-basis: 30%;
+    margin: 1%;
+    background-color: aqua;
+}
+.items img{
+    width: 100%;
+}
